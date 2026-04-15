@@ -35,3 +35,8 @@ AIRST_RAG/.streamlit/secrets.toml
 Thumbs.db
 .idea/
 
+rag-venv/
+__pycache__/
+*.pyc
+AIRST_RAG/chroma_db/
+AIRST_RAG/uploads/
