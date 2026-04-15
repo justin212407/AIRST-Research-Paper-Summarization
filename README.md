@@ -36,6 +36,3 @@ After succesfully install the required packages, run `streamlit run AIRST.py` in
   
 4. Use the feedback section to provide feedback on the accuracy and relevance of the generated summaries and answers
 
-
-# AIRST-Research-Paper-Summarization
-# AIRST-Research-Paper-Summarization
